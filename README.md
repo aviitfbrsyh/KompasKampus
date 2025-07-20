@@ -84,5 +84,5 @@ Proyek ini berada di bawah lisensi [MIT](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ untuk Mahasiswa UII oleh KompasKampus Team
+  Made with ❤️ untuk Mahasiswa UII oleh K Team
 </p>
